@@ -1,6 +1,6 @@
 # 💼 Meu Portfólio de Desenvolvimento
 
-Olá! 👋 Eu sou um desenvolvedor com experiência em **HTML**, **CSS**, **JavaScript**, **React** e **SQL**. Este portfólio reúne alguns dos meus principais projetos, demonstrando minhas habilidades em front-end e banco de dados.
+Olá! 👋 Eu sou um desenvolvedor com experiência em **HTML**, **CSS**, **JavaScript**, **React** e **SQL**. Este portfólio introduz um pouco sobre minha pessoa a respeito das skills que tenho.
 
 ---
 
